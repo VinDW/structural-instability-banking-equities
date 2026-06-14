@@ -1,9 +1,11 @@
-# Data folder
+# Data
 
-Place the authorised IRESS Excel file in this folder and rename it:
+The raw IRESS dataset used in this study is proprietary and is not included in this repository.
 
-```text
-IRESS_DATASET.xlsx
-```
+To reproduce the analysis, authorised users should place the IRESS Excel file in this folder and rename it as:
 
-The raw dataset is proprietary and should not be committed to GitHub.
+`IRESS_DATASET.xlsx`
+
+Expected local path:
+
+`data/IRESS_DATASET.xlsx`
